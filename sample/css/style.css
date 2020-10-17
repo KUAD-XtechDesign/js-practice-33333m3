@@ -3,7 +3,7 @@ body{
   background-color: #DCDCDC;
   color: #333;
   margin: 10px;
-  font-size: 12px;
+  font-size: 24px;
 }
 
 .wrapper{
@@ -11,7 +11,7 @@ body{
   background-color: #fff;
   margin: 0 auto;
   padding: 20px;
-  min-height: 400px;
+  min-height: 800px;
 }
 
 img{
@@ -23,15 +23,15 @@ li{
 }
 
 h1{
-  font-size: 150%;
+  font-size: 300%;
 }
 
 .button{
-  margin: 10px 2px;
-  padding: 5px 15px;
+  margin: 20px 4px;
+  padding: 10px 30px;
   background-color: #fcc;
   display: inline-block;
-  border-radius: 3px;
+  border-radius: 6px;
   cursor: pointer;
   user-select: none;
   font-weight: bold;
@@ -42,15 +42,15 @@ h1{
 }
 
 .playground{
-  border: 1px solid #ccc;
-  min-height: 300px;
-  padding: 20px;
-  margin: 10px;
-  font-size: 15px;
+  border: 2px solid #ccc;
+  min-height: 600px;
+  padding: 40px;
+  margin: 20px;
+  font-size: 30px;
 }
 
 .q{
-  margin: 20px 0;
+  margin: 40px 0;
   font-size: 1.4em;
   line-height: 1.8;
 }
@@ -77,9 +77,9 @@ h1{
 }
 
 .box{
-  margin: 10px;
-  padding: 30px;
-  width: 130px;
+  margin: 20px;
+  padding: 60px;
+  width: 260px;
   text-align: center;
   font-weight: bold;
   color: #fff;
