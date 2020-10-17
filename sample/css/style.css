@@ -11,7 +11,7 @@ body{
   background-color: rgb(136, 95, 248);
   margin: 0 auto;
   padding: 20px;
-  min-height: 600px;
+  min-height: 300px;
 }
 
 img{
@@ -27,7 +27,7 @@ h1{
 }
 
 .button{
-  margin: 20px 4px;
+  margin: 20px 2px;
   padding: 10px 30px;
   background-color: rgb(99, 149, 224);
   display: inline-block;
@@ -43,8 +43,8 @@ h1{
 
 .playground{
   border: 1px solid rgb(255, 212, 212);
-  min-height: 300px;
-  padding: 30px;
+  min-height: 150px;
+  padding: 20px;
   margin: 15px;
   font-size: 20px;
 }
