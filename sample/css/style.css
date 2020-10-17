@@ -3,7 +3,7 @@ body{
   background-color: #DCDCDC;
   color: rgb(136, 95, 248);
   margin: 10px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .wrapper{
@@ -23,7 +23,7 @@ li{
 }
 
 h1{
-  font-size: 200%;
+  font-size: 100%;
 }
 
 .button{
