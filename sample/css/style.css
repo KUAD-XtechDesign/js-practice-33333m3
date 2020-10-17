@@ -1,17 +1,17 @@
 
 body{
   background-color: #DCDCDC;
-  color: rgb(255, 170, 177);
+  color: rgb(136, 95, 248);
   margin: 10px;
   font-size: 24px;
 }
 
 .wrapper{
   max-width: 1000px;
-  background-color: rgb(238, 180, 223);
+  background-color: rgb(136, 95, 248);
   margin: 0 auto;
   padding: 20px;
-  min-height: 800px;
+  min-height: 600px;
 }
 
 img{
@@ -23,7 +23,7 @@ li{
 }
 
 h1{
-  font-size: 300%;
+  font-size: 200%;
 }
 
 .button{
@@ -43,7 +43,7 @@ h1{
 
 .playground{
   border: 2px solid #ccc;
-  min-height: 600px;
+  min-height: 400px;
   padding: 40px;
   margin: 20px;
   font-size: 30px;
@@ -79,7 +79,7 @@ h1{
 .box{
   margin: 20px;
   padding: 60px;
-  width: 260px;
+  width: 200px;
   text-align: center;
   font-weight: bold;
   color: #fff;
