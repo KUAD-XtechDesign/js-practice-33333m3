@@ -1,6 +1,6 @@
 $(function(){
 
-    let txt1 = "Good morning!"；
+    let txt1 = "Good morning!";
     let txt2 = "How are you?";
     let num1 = 20;
     let num2 = 32;
