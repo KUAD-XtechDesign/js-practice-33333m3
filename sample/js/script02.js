@@ -30,7 +30,7 @@ $(function(){
     })
 
     $("#button07").on("click",function(){
-      $("#content").text(ココ);
+      $("#content").append(num1+num2);
     })
 
 
